@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #000000;
+    background-color: #242424;
     color: white; /* Set the text color to white for better contrast */
 }
 .container {
@@ -25,7 +25,7 @@ body {
 .about {
     width: 50%;
     margin-left: 20px;
-    background-color: #333; /* Dark gray background for the content */
+    background-color: #242424; /* Dark gray background for the content */
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2); /* Light shadow for contrast */
